@@ -1,0 +1,1 @@
+Space Dodge is a simple arcade-style game built using Python and the Pygame library. The player controls a spaceship and must navigate through space while avoiding incoming obstacles. The game gets progressively harder as the player survives longer.
